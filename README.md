@@ -41,7 +41,7 @@ To run this project, you will need to add the following environment variables to
 
 #### FOR ANY CODE RELATED QUERIES AND ISSUES CONTACT 
 
-**[`EMAIL ID`](vipulrjput@gmail.com)**                              
+**`EMAIL ID` :- vipulrjput@gmail.com**                              
 
 **[`INSTAGRAM`](https://www.instagram.com/vipulkumar03/)**
 
